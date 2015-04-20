@@ -24,11 +24,11 @@ SignVerifyMessageDialog::SignVerifyMessageDialog(QWidget *parent) :
 
 #if (QT_VERSION >= 0x040700)
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->addressIn_SM->setPlaceholderText(tr("Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)"));
+    ui->addressIn_SM->setPlaceholderText(tr("Enter a Vaginacoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)"));
     ui->signatureOut_SM->setPlaceholderText(tr("Click \"Sign Message\" to generate signature"));
 
-    ui->addressIn_VM->setPlaceholderText(tr("Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)"));
-    ui->signatureIn_VM->setPlaceholderText(tr("Enter Positron signature"));
+    ui->addressIn_VM->setPlaceholderText(tr("Enter a Vaginacoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)"));
+    ui->signatureIn_VM->setPlaceholderText(tr("Enter Vaginacoin signature"));
 #endif
 
     GUIUtil::setupAddressWidget(ui->addressIn_SM, this);

@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define Positron-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "PositronURI"
+// Define Vaginacoin-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "VaginacoinURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);

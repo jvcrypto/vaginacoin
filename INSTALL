@@ -1,9 +1,9 @@
-Building Positron
+Building Vaginacoin
 
-See doc/readme-qt.rst for instructions on building Positron QT,
+See doc/readme-qt.rst for instructions on building Vaginacoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Positron.
+implementation of Vaginacoin.
 
-See doc/build-*.txt for instructions on building Positrond,
+See doc/build-*.txt for instructions on building Vaginacoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Positron.
+implementation of Vaginacoin.

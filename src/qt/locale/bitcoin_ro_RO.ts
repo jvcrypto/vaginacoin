@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Positron</source>
-        <translation>Despre Positron</translation>
+        <source>About Vaginacoin</source>
+        <translation>Despre Vaginacoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Positron&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;Positron&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Vaginacoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;Vaginacoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Positron developers</source>
+Copyright © 2014 The Vaginacoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Positron developers</translation>
+Copyright © 2014 The Vaginacoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Positron addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele Positron pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your Vaginacoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele Vaginacoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Positron address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Positron</translation>
+        <source>Sign a message to prove you own a Vaginacoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Vaginacoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Positron address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Positron</translation>
+        <source>Verify a message to ensure it was signed with a specified Vaginacoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Vaginacoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>Positron will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Positron se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>Vaginacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Vaginacoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Positron</source>
-        <translation>Arată informații despre Positron</translation>
+        <source>Show information about Vaginacoin</source>
+        <translation>Arată informații despre Vaginacoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Positron address</source>
-        <translation>Trimite monede către o adresă Positron</translation>
+        <source>Send coins to a Vaginacoin address</source>
+        <translation>Trimite monede către o adresă Vaginacoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Positron</source>
-        <translation>Modifică opțiuni de configurare pentru Positron</translation>
+        <source>Modify configuration options for Vaginacoin</source>
+        <translation>Modifică opțiuni de configurare pentru Vaginacoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-200"/>
-        <source>Positron</source>
-        <translation>Positron</translation>
+        <source>Vaginacoin</source>
+        <translation>Vaginacoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Positron</source>
-        <translation>Despre Positron</translation>
+        <source>&amp;About Vaginacoin</source>
+        <translation>Despre Vaginacoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Positron client</source>
-        <translation>Clientul Positron</translation>
+        <source>Vaginacoin client</source>
+        <translation>Clientul Vaginacoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Positron network</source>
-        <translation><numerusform>%n conexiune activă la reteaua Positron</numerusform><numerusform>%n conexiuni active la reteaua Positron</numerusform><numerusform>%n conexiuni active la reteaua Positron</numerusform></translation>
+        <source>%n active connection(s) to Vaginacoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua Vaginacoin</numerusform><numerusform>%n conexiuni active la reteaua Vaginacoin</numerusform><numerusform>%n conexiuni active la reteaua Vaginacoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Positron address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Positron invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Vaginacoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Vaginacoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Positron can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. Positron nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. Vaginacoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. Vaginacoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Positron address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Positron validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Vaginacoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Vaginacoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Positron-Qt</source>
-        <translation>Positron-Qt</translation>
+        <source>Vaginacoin-Qt</source>
+        <translation>Vaginacoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Positron after logging in to the system.</source>
-        <translation>Pornește Positron imdiat după logarea în sistem</translation>
+        <source>Automatically start Vaginacoin after logging in to the system.</source>
+        <translation>Pornește Vaginacoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Positron on system login</source>
-        <translation>$Pornește Positron la logarea în sistem</translation>
+        <source>&amp;Start Vaginacoin on system login</source>
+        <translation>$Pornește Vaginacoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Positron client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul Positron pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the Vaginacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul Vaginacoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Positron network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua Positron prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the Vaginacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua Vaginacoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Positron.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Positron.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Vaginacoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Vaginacoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Positron addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese Positron din lista de tranzacție sau nu.</translation>
+        <source>Whether to show Vaginacoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese Vaginacoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Positron.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea Positron.</translation>
+        <source>This setting will take effect after restarting Vaginacoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea Vaginacoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Positron network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Positron după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Vaginacoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Vaginacoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Positron-Qt help message to get a list with possible Positron command-line options.</source>
-        <translation>Afișa mesajul de ajutor Positron-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Positron.</translation>
+        <source>Show the Vaginacoin-Qt help message to get a list with possible Vaginacoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor Vaginacoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Vaginacoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Positron - Debug window</source>
-        <translation>Positron - fereastră depanare</translation>
+        <source>Vaginacoin - Debug window</source>
+        <translation>Vaginacoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Positron Core</source>
-        <translation>Positron Core</translation>
+        <source>Vaginacoin Core</source>
+        <translation>Vaginacoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Positron debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare Positron din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the Vaginacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare Vaginacoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Positron RPC console.</source>
-        <translation>Bine ati venit la consola Positron RPC.</translation>
+        <source>Welcome to the Vaginacoin RPC console.</source>
+        <translation>Bine ati venit la consola Vaginacoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introduceți o adresă Positron(ex:2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Vaginacoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introduceți o adresă Vaginacoin(ex:2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Positron address</source>
-        <translation>Atenție: Adresă Positron invalidă</translation>
+        <source>WARNING: Invalid Vaginacoin address</source>
+        <translation>Atenție: Adresă Vaginacoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introduceți o adresă Positron(ex:2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Vaginacoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introduceți o adresă Vaginacoin(ex:2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Positron address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Positron</translation>
+        <source>Sign the message to prove you own this Vaginacoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Vaginacoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Positron address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Positron</translation>
+        <source>Verify the message to ensure it was signed with the specified Vaginacoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Vaginacoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introduceți o adresă Positron(ex:2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Vaginacoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introduceți o adresă Vaginacoin(ex:2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Positron signature</source>
-        <translation>Introduceti semnatura Positron</translation>
+        <source>Enter Vaginacoin signature</source>
+        <translation>Introduceti semnatura Vaginacoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Positron version</source>
-        <translation>Versiune Positron</translation>
+        <source>Vaginacoin version</source>
+        <translation>Versiune Vaginacoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Positrond</source>
-        <translation>Trimite comanda catre server sau Positrond</translation>
+        <source>Send command to -server or Vaginacoind</source>
+        <translation>Trimite comanda catre server sau Vaginacoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Positron.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: Positron.conf)</translation>
+        <source>Specify configuration file (default: Vaginacoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: Vaginacoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Positrond.pid)</source>
-        <translation>Speficica fisier pid(implicit: Positron.pid)</translation>
+        <source>Specify pid file (default: Vaginacoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: Vaginacoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Positron will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Positron nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Vaginacoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Vaginacoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,22 +2990,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Positronrpc
+rpcuser=Vaginacoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Positron Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Vaginacoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=Positronrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=Vaginacoinrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;Positron Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;Vaginacoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Positron Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Positron is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Vaginacoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Testoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Positron</source>
-        <translation>Positron</translation>
+        <source>Vaginacoin</source>
+        <translation>Vaginacoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Positron Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Positron</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Positron</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Vaginacoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Vaginacoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Positron to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați Positron pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart Vaginacoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați Vaginacoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;Positron Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Positron is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Positron ruleaza</translation>
+        <source>Unable to bind to %s on this computer. Vaginacoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Vaginacoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

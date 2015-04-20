@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Positron</source>
-        <translation>O Positron</translation>
+        <source>About Vaginacoin</source>
+        <translation>O Vaginacoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Positron&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Positron&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;Vaginacoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Vaginacoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Positron developers</source>
+Copyright © 2014 The Vaginacoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Positron addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši Positron naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your Vaginacoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši Vaginacoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Positron address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva Positron naslova</translation>
+        <source>Sign a message to prove you own a Vaginacoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Vaginacoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Positron address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim Positron naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified Vaginacoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim Vaginacoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>Positron will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Positron se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>Vaginacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Vaginacoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Positron</source>
-        <translation>Pokaži informacije o Positron</translation>
+        <source>Show information about Vaginacoin</source>
+        <translation>Pokaži informacije o Vaginacoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Positron address</source>
-        <translation>Pošlji kovance na Positron naslov</translation>
+        <source>Send coins to a Vaginacoin address</source>
+        <translation>Pošlji kovance na Vaginacoin naslov</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Positron</source>
-        <translation>Spremeni nastavitve za BPositron</translation>
+        <source>Modify configuration options for Vaginacoin</source>
+        <translation>Spremeni nastavitve za BVaginacoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>Positron</source>
-        <translation>Positron</translation>
+        <source>Vaginacoin</source>
+        <translation>Vaginacoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Positron</source>
-        <translation>&amp;O Positron</translation>
+        <source>&amp;About Vaginacoin</source>
+        <translation>&amp;O Vaginacoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Positron client</source>
-        <translation>Positron program</translation>
+        <source>Vaginacoin client</source>
+        <translation>Vaginacoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Positron network</source>
-        <translation><numerusform>%n aktivne povezave na Positron omrežje</numerusform><numerusform>%n aktivnih povezav na Positron omrežje</numerusform><numerusform>%n aktivnih povezav na Positron omrežje</numerusform><numerusform>%n aktivnih povezav na Positron omrežje</numerusform></translation>
+        <source>%n active connection(s) to Vaginacoin network</source>
+        <translation><numerusform>%n aktivne povezave na Vaginacoin omrežje</numerusform><numerusform>%n aktivnih povezav na Vaginacoin omrežje</numerusform><numerusform>%n aktivnih povezav na Vaginacoin omrežje</numerusform><numerusform>%n aktivnih povezav na Vaginacoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Positron address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega Positron naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Vaginacoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega Vaginacoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Positron can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program Positron se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. Vaginacoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program Vaginacoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Positron address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven Positron naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Vaginacoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven Vaginacoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Positron-Qt</source>
-        <translation>Positron-Qt</translation>
+        <source>Vaginacoin-Qt</source>
+        <translation>Vaginacoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Positron after logging in to the system.</source>
-        <translation>Avtomatično zaženi Positron ob zagonu sistema.</translation>
+        <source>Automatically start Vaginacoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi Vaginacoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Positron on system login</source>
-        <translation>&amp;Zaženi Positron ob prijavi v sistem</translation>
+        <source>&amp;Start Vaginacoin on system login</source>
+        <translation>&amp;Zaženi Vaginacoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Positron client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za Positron program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the Vaginacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za Vaginacoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Positron network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na Positron omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the Vaginacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na Vaginacoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Positron.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu Positron aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Vaginacoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu Vaginacoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Positron addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza Positron naslovov v seznamu transakcij.</translation>
+        <source>Whether to show Vaginacoin addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza Vaginacoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Positron.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu Positron aplikacije</translation>
+        <source>This setting will take effect after restarting Vaginacoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu Vaginacoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Positron network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z Positron omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Vaginacoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z Vaginacoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Positron-Qt help message to get a list with possible Positron command-line options.</source>
-        <translation>Prikaži Positron-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice Positron aplikacije</translation>
+        <source>Show the Vaginacoin-Qt help message to get a list with possible Vaginacoin command-line options.</source>
+        <translation>Prikaži Vaginacoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice Vaginacoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Positron - Debug window</source>
-        <translation>Positron - okno za odpravljanje napak</translation>
+        <source>Vaginacoin - Debug window</source>
+        <translation>Vaginacoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Positron Core</source>
-        <translation>Positron jedro</translation>
+        <source>Vaginacoin Core</source>
+        <translation>Vaginacoin jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Positron debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri Positron datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the Vaginacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri Vaginacoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Positron RPC console.</source>
-        <translation>Dobrodošli v Positron RPC konzoli.</translation>
+        <source>Welcome to the Vaginacoin RPC console.</source>
+        <translation>Dobrodošli v Vaginacoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Vnesite Positron naslov (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Vaginacoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Vnesite Vaginacoin naslov (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Positron address</source>
-        <translation>OPOZORILO: Neveljaven Positron naslov</translation>
+        <source>WARNING: Invalid Vaginacoin address</source>
+        <translation>OPOZORILO: Neveljaven Vaginacoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Vnesite Positron naslov (npr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Vaginacoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Vnesite Vaginacoin naslov (npr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Positron address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva Positron naslova</translation>
+        <source>Sign the message to prove you own this Vaginacoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Vaginacoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Positron address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim Positron naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified Vaginacoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim Vaginacoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Vnesite Positron naslov (npr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Vaginacoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Vnesite Vaginacoin naslov (npr. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Positron signature</source>
-        <translation>Vnesite Positron podpis</translation>
+        <source>Enter Vaginacoin signature</source>
+        <translation>Vnesite Vaginacoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Positron version</source>
-        <translation>Positron različica</translation>
+        <source>Vaginacoin version</source>
+        <translation>Vaginacoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,7 +2623,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Positrond</source>
+        <source>Send command to -server or Vaginacoind</source>
         <translation>Pošlji ukaz na -server ali Testoind</translation>
     </message>
     <message>
@@ -2643,13 +2643,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Positron.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: Positron.conf)</translation>
+        <source>Specify configuration file (default: Vaginacoin.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: Vaginacoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Positrond.pid)</source>
-        <translation>Določi pid datoteko (privzeto: Positron.pid)</translation>
+        <source>Specify pid file (default: Vaginacoind.pid)</source>
+        <translation>Določi pid datoteko (privzeto: Vaginacoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Positron will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno Positron ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Vaginacoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno Vaginacoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,24 +2988,24 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Positronrpc
+rpcuser=Vaginacoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Positron Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Vaginacoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
 Priporočeno je, da uporabite naslednje naključno geslo:
-rpcuser=Positronrpc
+rpcuser=Vaginacoinrpc
 rpcpassword=%s
 (tega gesla si vam ni potrebno zapomniti)
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;Positron Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;Vaginacoin Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;Positron Alarm&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Positron is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija Positron je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Vaginacoin is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija Vaginacoin je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Positron</source>
-        <translation>Positron</translation>
+        <source>Vaginacoin</source>
+        <translation>Vaginacoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;Positron Alarm&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Positron</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo Positron</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Vaginacoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo Vaginacoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Positron to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite Positron za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart Vaginacoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite Vaginacoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;Positron Alarm&quot; admin@foo.c
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Positron is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča Positron aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. Vaginacoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča Vaginacoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

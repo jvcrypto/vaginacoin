@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Positrons");
-    case mBTC: return QString("Milli-Positrons (1 / 1,000)");
-    case uBTC: return QString("Micro-Positrons (1 / 1,000,000)");
+    case BTC: return QString("Vaginacoins");
+    case mBTC: return QString("Milli-Vaginacoins (1 / 1,000)");
+    case uBTC: return QString("Micro-Vaginacoins (1 / 1,000,000)");
     default: return QString("???");
     }
 }

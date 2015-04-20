@@ -21,7 +21,7 @@ CCriticalSection cs_mapAlerts;
 
 static const char* pszMainKey = "042fe4982a6d43dc8e6ef349f79462fd47e7aec3008fe7fd19259569d65be476a2b15f3ad936772aa54547c7e8922ca377998a8d3a2275e0289db47fdb6b7db8e9";
 
-// TestNet alerts pubKey Positron
+// TestNet alerts pubKey Vaginacoin
 static const char* pszTestKey = "045d2dee35e0f1ca467639584fac5ad1d2da42a8e489791f031c6ce83c668bd16d3f49f4762b20996d50c97369db78ac5ff2d51b2ed263724f09e6e0345e4da450";
 
 // TestNet alerts private key

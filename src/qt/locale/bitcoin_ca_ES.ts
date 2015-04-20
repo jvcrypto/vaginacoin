@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Positron</source>
-        <translation>Sobre Positron</translation>
+        <source>About Vaginacoin</source>
+        <translation>Sobre Vaginacoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Positron&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;Positron&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Vaginacoin&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;Vaginacoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Positron developers</source>
+Copyright © 2014 The Vaginacoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Positron developers</translation>
+Copyright © 2014 The Vaginacoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Positron addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de Positron per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your Vaginacoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de Vaginacoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Positron address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Positron</translation>
+        <source>Sign a message to prove you own a Vaginacoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Vaginacoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Positron address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Positron especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified Vaginacoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Vaginacoin especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Positron will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Positron tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>Vaginacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Vaginacoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Positron</source>
-        <translation>Mostra informació sobre Positron</translation>
+        <source>Show information about Vaginacoin</source>
+        <translation>Mostra informació sobre Vaginacoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Positron address</source>
-        <translation>Enviar monedes a una adreça Positron</translation>
+        <source>Send coins to a Vaginacoin address</source>
+        <translation>Enviar monedes a una adreça Vaginacoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Positron</source>
-        <translation>Modificar les opcions de configuració per a Positron</translation>
+        <source>Modify configuration options for Vaginacoin</source>
+        <translation>Modificar les opcions de configuració per a Vaginacoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>Positron</source>
-        <translation>Positron</translation>
+        <source>Vaginacoin</source>
+        <translation>Vaginacoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Positron</source>
-        <translation>&amp;Sobre Positron</translation>
+        <source>&amp;About Vaginacoin</source>
+        <translation>&amp;Sobre Vaginacoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Positron client</source>
-        <translation>Client Positron</translation>
+        <source>Vaginacoin client</source>
+        <translation>Client Vaginacoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Positron network</source>
-        <translation><numerusform>%n conexió activa a la xarxa Positron</numerusform><numerusform>%n conexions actives a la xarxa Positron</numerusform></translation>
+        <source>%n active connection(s) to Vaginacoin network</source>
+        <translation><numerusform>%n conexió activa a la xarxa Vaginacoin</numerusform><numerusform>%n conexions actives a la xarxa Vaginacoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -650,8 +650,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Positron address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Positron no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Vaginacoin address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Vaginacoin no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -710,8 +710,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Positron can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. Positron ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. Vaginacoin can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. Vaginacoin ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1044,8 +1044,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Positron address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Positron vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Vaginacoin address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Vaginacoin vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1063,8 +1063,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Positron-Qt</source>
-        <translation>Positron-Qt</translation>
+        <source>Vaginacoin-Qt</source>
+        <translation>Vaginacoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1136,13 +1136,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Positron after logging in to the system.</source>
-        <translation>Inicia automàticament Positron després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start Vaginacoin after logging in to the system.</source>
+        <translation>Inicia automàticament Vaginacoin després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Positron on system login</source>
-        <translation>&amp;Iniciar Positron amb l&apos;inici de sessió</translation>
+        <source>&amp;Start Vaginacoin on system login</source>
+        <translation>&amp;Iniciar Vaginacoin amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1161,8 +1161,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Positron client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client Positron en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the Vaginacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client Vaginacoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Positron network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa Positron través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the Vaginacoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa Vaginacoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1246,8 +1246,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Positron.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Positron.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Vaginacoin.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Vaginacoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1261,8 +1261,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Positron addresses in the transaction list or not.</source>
-        <translation>Per mostrar Positron adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show Vaginacoin addresses in the transaction list or not.</source>
+        <translation>Per mostrar Vaginacoin adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1308,8 +1308,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Positron.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Positron.</translation>
+        <source>This setting will take effect after restarting Vaginacoin.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Vaginacoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1327,8 +1327,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Positron network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Positron després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Vaginacoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Vaginacoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1543,8 +1543,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Positron-Qt help message to get a list with possible Positron command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de Positron-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Positron.</translation>
+        <source>Show the Vaginacoin-Qt help message to get a list with possible Vaginacoin command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de Vaginacoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Vaginacoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,13 +1563,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Positron - Debug window</source>
-        <translation>Positron - Finestra Depuració</translation>
+        <source>Vaginacoin - Debug window</source>
+        <translation>Vaginacoin - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Positron Core</source>
-        <translation>Nucli Positron</translation>
+        <source>Vaginacoin Core</source>
+        <translation>Nucli Vaginacoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1578,8 +1578,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Positron debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració Positron des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the Vaginacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració Vaginacoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Positron RPC console.</source>
-        <translation>Benvingut a la consola RPC de Positron.</translation>
+        <source>Welcome to the Vaginacoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de Vaginacoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1747,8 +1747,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introdueix una adreça Positron (p.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Vaginacoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introdueix una adreça Vaginacoin (p.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1847,8 +1847,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Positron address</source>
-        <translation>ADVERTÈNCIA: Direcció Positron invàlida</translation>
+        <source>WARNING: Invalid Vaginacoin address</source>
+        <translation>ADVERTÈNCIA: Direcció Vaginacoin invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1921,8 +1921,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introdueix una adreça Positron (p.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Vaginacoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introdueix una adreça Vaginacoin (p.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
 </context>
 <context>
@@ -1982,8 +1982,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Positron address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Positron</translation>
+        <source>Sign the message to prove you own this Vaginacoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Vaginacoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2014,8 +2014,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Positron address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Positron especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Vaginacoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Vaginacoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Positron address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
-        <translation>Introdueix una adreça Positron (p.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
+        <source>Enter a Vaginacoin address (e.g. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</source>
+        <translation>Introdueix una adreça Vaginacoin (p.ex. 2JhbfkAFvXqYkreSgJfrRLS9DepUcxbQci)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Positron signature</source>
-        <translation>Introduïu la signatura Positron</translation>
+        <source>Enter Vaginacoin signature</source>
+        <translation>Introduïu la signatura Vaginacoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2606,8 +2606,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Positron version</source>
-        <translation>versió Positron</translation>
+        <source>Vaginacoin version</source>
+        <translation>versió Vaginacoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Positrond</source>
-        <translation>Enviar comandes a -server o Positrond</translation>
+        <source>Send command to -server or Vaginacoind</source>
+        <translation>Enviar comandes a -server o Vaginacoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,13 +2636,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Positron.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: Positron.conf)</translation>
+        <source>Specify configuration file (default: Vaginacoin.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: Vaginacoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Positrond.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: Positrond.pid)</translation>
+        <source>Specify pid file (default: Vaginacoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: Vaginacoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2791,8 +2791,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Positron will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Positron no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Vaginacoin will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Vaginacoin no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2981,24 +2981,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Positronrpc
+rpcuser=Vaginacoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Positron Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Vaginacoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=Positronrpc
+rpcuser=Vaginacoinrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;Positron Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;Vaginacoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3124,13 +3124,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Positron is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Positron probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Vaginacoin is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Vaginacoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Positron</source>
-        <translation>Positron</translation>
+        <source>Vaginacoin</source>
+        <translation>Vaginacoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3164,13 +3164,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Positron</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Positron</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Vaginacoin</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Vaginacoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Positron to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar Positron per completar</translation>
+        <source>Wallet needed to be rewritten: restart Vaginacoin to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar Vaginacoin per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3239,8 +3239,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Positron is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. Positron probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. Vaginacoin is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. Vaginacoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>
